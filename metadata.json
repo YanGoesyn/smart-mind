@@ -1,0 +1,8 @@
+{
+  "name": "Smart Mind - 26/07",
+  "description": "Aplicação com KANBAN integrado",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
